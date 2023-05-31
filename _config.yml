@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: This is the personal homepage of caraZ02, a dog person
+description: All about my dog!
+plugins:
+  - jemoji
+url: "https://caraZ02.github.io/
+markdown: kramdown
