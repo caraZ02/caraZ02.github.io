@@ -18,7 +18,7 @@ For more information, see [Bichon](https://en.wikipedia.org/wiki/Bichon).
 
 ## Other information 
 If you also like dogs, don't hesitate to contact me!
-- @caraZ02
+- @ carazhang0278`@`gmail.com
 
 
 
