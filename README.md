@@ -13,7 +13,7 @@ For more information, see [Bichon](https://en.wikipedia.org/wiki/Bichon).
 * Her favourite food is meat, **any kind of meat**.
 * She sleeps on bed.
 * She is closest her mum, who is also my mum.
-* **She was spoiled**.
+* **She was spoiled** :sweat_smile: 
 
 
 
