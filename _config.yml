@@ -1,7 +1,7 @@
-theme: jekyll-theme-slate
-title: This is the homepage of cara, a cute dog.
+remote_theme: pages-themes/merlot@v0.2.0
+title: This is the homepage of Cara, a cute dog.
 description: What you will find here are links to projects, publications, and repositories related to the former. Expect some delay in reporting!
 plugins:
-  - jemoji
+  - jekyll-remote-theme
 url: "https://caraZ02.github.io/"
 markdown: kramdown
